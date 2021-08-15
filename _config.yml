@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name "Ahmed Samir Elserafy"
-description              : &description "personal description"
+name                     : &name "Ahmed Elserafy"
+description              : &description "iOS Developer"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BradHub10/BradHub10.github.io"
@@ -85,10 +85,10 @@ author:
   bio              : "iOS Developer"
   location         : "Cairo, Egypt"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            : "ahmed.samer43@yahoo.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
