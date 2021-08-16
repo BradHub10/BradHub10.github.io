@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Ahmed Elserafy"
 title_separator          : "-"
 name                     : &name "Ahmed Elserafy"
 description              : &description "iOS Developer"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  medium           : "https://medium.com/@ahmed.samer43/"
 
 
 # Reading Files
