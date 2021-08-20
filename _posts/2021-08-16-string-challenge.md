@@ -6,6 +6,7 @@ excerpt: "Let's solve this challenge."
 tags:
   - Coding
   - Programming
+  - Problem Solving
 ---
 
 
